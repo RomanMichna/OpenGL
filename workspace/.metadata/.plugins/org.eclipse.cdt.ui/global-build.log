@@ -1,0 +1,6217 @@
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+../main.cpp: In function ‘void display()’:
+../main.cpp:4:10: error: ‘GL_COLOR_BUFFER_BIT’ was not declared in this scope
+../main.cpp:4:29: error: ‘glClear’ was not declared in this scope
+../main.cpp:5:17: error: ‘glLoadIdentity’ was not declared in this scope
+../main.cpp:6:47: error: ‘gluLookAt’ was not declared in this scope
+../main.cpp:8:10: error: ‘GL_LINES’ was not declared in this scope
+../main.cpp:8:18: error: ‘glBegin’ was not declared in this scope
+../main.cpp:9:23: error: ‘glVertex3f’ was not declared in this scope
+../main.cpp:19:7: error: ‘glEnd’ was not declared in this scope
+../main.cpp:20:9: error: ‘glFlush’ was not declared in this scope
+../main.cpp: In function ‘void keyboard(unsigned char, int, int)’:
+../main.cpp:28:7: error: ‘exit’ was not declared in this scope
+../main.cpp: In function ‘void reshape(int, int)’:
+../main.cpp:35:19: error: ‘GLsizei’ was not declared in this scope
+../main.cpp:35:45: error: expected ‘)’ before ‘height’
+../main.cpp:35:51: error: ‘glViewport’ was not declared in this scope
+../main.cpp:36:15: error: ‘GL_PROJECTION’ was not declared in this scope
+../main.cpp:36:28: error: ‘glMatrixMode’ was not declared in this scope
+../main.cpp:37:17: error: ‘glLoadIdentity’ was not declared in this scope
+../main.cpp:38:36: error: ‘glOrtho’ was not declared in this scope
+../main.cpp:39:15: error: ‘GL_MODELVIEW’ was not declared in this scope
+../main.cpp: In function ‘int main(int, char**)’:
+../main.cpp:44:12: error: ‘amp’ was not declared in this scope
+../main.cpp:44:22: warning: left operand of comma operator has no effect [-Wunused-value]
+../main.cpp:44:26: error: expected ‘;’ before ‘)’ token
+../main.cpp:44:27: warning: right operand of comma operator has no effect [-Wunused-value]
+../main.cpp:45:28: error: ‘glutInitWindowSize’ was not declared in this scope
+../main.cpp:46:32: error: ‘glutInitWindowPosition’ was not declared in this scope
+../main.cpp:47:24: error: ‘glutCreateWindow’ was not declared in this scope
+../main.cpp:48:25: error: ‘glutDisplayFunc’ was not declared in this scope
+../main.cpp:49:25: error: ‘glutReshapeFunc’ was not declared in this scope
+../main.cpp:50:27: error: ‘glutKeyboardFunc’ was not declared in this scope
+../main.cpp:51:15: error: ‘glutMainLoop’ was not declared in this scope
+make: *** [main.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+../main.cpp: In function ‘int main(int, char**)’:
+../main.cpp:46:12: error: ‘amp’ was not declared in this scope
+../main.cpp:46:22: warning: left operand of comma operator has no effect [-Wunused-value]
+../main.cpp:46:26: error: expected ‘;’ before ‘)’ token
+../main.cpp:46:27: warning: right operand of comma operator has no effect [-Wunused-value]
+make: *** [main.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: opengl
+Invoking: GCC C++ Linker
+g++  -o "opengl"  ./main.o   -lglut -lGLU
+Finished building target: opengl
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project opengl ****
+
+make all 
+make: Nothing to be done for `all'.
+
+**** Build Finished ****
